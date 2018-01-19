@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Student Record System</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_roll_no">Enter Roll No</string>
+    <string name="enter_mark">Enter Mark</string>
+    <string name="title_name">STUDENT RECORD SYSTEM</string>
+    <string name="first_run">FIRSTRUN</string>
+    <string name="appwidget_text">Student Records</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
